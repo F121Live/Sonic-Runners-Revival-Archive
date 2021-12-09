@@ -12,11 +12,13 @@ pretty easily using "Abyss Web Server x1"
 
 
 # Current available releases:
+
+
+# Coming soon:
 1.1.4  |  Asset version 047 - Outrun Experimental, requires special version of Outrun: https://github.com/FairPlay137/outrun/tree/1.1.4_work
 
 2.0.3  |  Asset version 049
 
 2.0.3  |  Asset version 050 with Revival custom events
 
-# Coming soon:
-2.1.0
+2.1.0  |  Asset version TBD
